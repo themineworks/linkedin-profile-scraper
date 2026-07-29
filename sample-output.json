@@ -1,0 +1,39 @@
+[
+  {
+    "profile_url": "https://www.linkedin.com/in/satyanadella",
+    "name": "Satya Nadella",
+    "experience": [
+      {
+        "company": "Microsoft",
+        "company_url": "https://www.linkedin.com/company/microsoft"
+      },
+      {
+        "company": "University of Chicago",
+        "company_url": "https://www.linkedin.com/school/uchicago/"
+      }
+    ],
+    "education": [
+      {
+        "school": "Starbucks",
+        "school_url": "https://www.linkedin.com/company/starbucks"
+      },
+      {
+        "school": "The Business Council U.S.",
+        "school_url": "https://www.linkedin.com/company/the-business-council-us"
+      },
+      {
+        "school": "Fred Hutch",
+        "school_url": "https://www.linkedin.com/company/fredhutch"
+      },
+      {
+        "school": "The University of Chicago Booth School of Business",
+        "school_url": "https://www.linkedin.com/school/universityofchicagoboothschoolofbusiness/"
+      }
+    ],
+    "headline": "Chairman and CEO, Member Board Of Trustees",
+    "location": "Redmond, Washington, United States",
+    "about": "As chairman and CEO of Microsoft, I define my mission and that of my company as empowering every person and every organization on the planet to achieve more.",
+    "followers": "12086785",
+    "scraped_at": "2026-07-27T16:42:00.367Z"
+  }
+]
