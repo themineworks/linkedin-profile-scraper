@@ -12,6 +12,13 @@ Python client for **[LinkedIn Profile Scraper: Name, Role, Skills, No Cookies](h
 pip install apify-client
 python3 linkedin_profile_scraper.py --token YOUR_APIFY_TOKEN --profile-urls "https://www.linkedin.com/in/satyanadella"
 ```
+### Node.js
+
+```bash
+npm install apify-client
+node linkedin_profile_scraper.mjs --token YOUR_APIFY_TOKEN --token YOUR_APIFY_TOKEN --profile-urls "https://www.linkedin.com/in/satyanadella"
+```
+
 
 Get a free API token: [console.apify.com/sign-up](https://console.apify.com/sign-up) — then find it under **Settings → API & Integrations**.
 
