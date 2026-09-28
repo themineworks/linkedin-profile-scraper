@@ -5,7 +5,7 @@ Scrape any public LinkedIn profile without login or cookies: full name, headline
 **Run it on Apify:** [apify.com/themineworks/linkedin-profile-scraper](https://apify.com/themineworks/linkedin-profile-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/linkedin-profile-scraper](https://themineworks.com/actors/linkedin-profile-scraper/)
 
-**Price:** $7.00 per 1,000 profiles on Apify's free plan, down to $4.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $4.00 per 1,000 profiles on Apify's higher plans ($7.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Scrape any public LinkedIn profile without login or cookies: full name, headline
 * Headline, location, about, and connection count
 * Bulk input: list of LinkedIn profile URLs
 * No login or cookies required
-* Zero charge on private or 404 profiles
+* Private or 404 profiles are never charged
 
 ## Quick start
 
@@ -116,7 +116,7 @@ https://mcp.apify.com/?tools=themineworks/linkedin-profile-scraper
 
 ### How much does the LinkedIn Profile Scraper cost?
 
-$7.00 per 1,000 profiles on Apify's free plan, down to $4.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $4.00 per 1,000 profiles on Apify's higher plans ($7.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
